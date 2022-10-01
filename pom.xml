@@ -10,6 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>Spark_S3_Demo</module>
+        <module>Flink_S3_Demo</module>
     </modules>
 
     <properties>
