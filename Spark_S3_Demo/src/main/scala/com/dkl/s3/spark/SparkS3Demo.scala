@@ -1,3 +1,5 @@
+package com.dkl.s3.spark
+
 import org.apache.spark.sql.SparkSession
 
 object SparkS3Demo {
